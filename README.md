@@ -58,6 +58,3 @@ CC219-TP-TF-2026-2-CC92/
 3. **Viabilidad de Modelado:** Los experimentos baseline arrojaron un rendimiento sólido con **Logistic Regression Balanceada (78.22% Accuracy, 78.11% F1-Weighted)** y **Random Forest (78.04% Accuracy)** utilizando representaciones TF-IDF, estableciendo una base rigurosa para la incorporación de modelos Transformers preentrenados (HateBERT) en el Trabajo Final.
 
 ---
-
-## 6. Licencia
-Este proyecto se distribuye bajo la licencia **MIT License** para el código fuente desarrollado y **Creative Commons Attribution 4.0 International (CC-BY-4.0)** para los datos derivados con fines estrictamente académicos y de investigación.
